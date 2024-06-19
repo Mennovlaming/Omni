@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "Menno Vlaming",
+    "cnumber": "12345678",
+    "zipcode": "1782WP",
+    "fnumber": "0642490486",
+    "hnumber": 6,
+    "logs": [
+      {
+        "text": "test",
+        "date": "2024-06-07T18:38:27.256Z"
+      },
+      {
+        "text": "testlog",
+        "date": "2024-06-07T19:19:18.073Z"
+      },
+      {
+        "text": "log toevoegen",
+        "date": "2024-06-12T07:51:54.613Z"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Ada Vlaming",
+    "cnumber": "12345678",
+    "zipcode": "1782WP",
+    "fnumber": "0613398116",
+    "hnumber": 6,
+    "logs": [
+      {
+        "text": "testlog",
+        "date": "2024-06-07T19:12:55.037Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Massih Sakhi",
+    "cnumber": "24681012",
+    "zipcode": "2782AB",
+    "fnumber": "0612345679",
+    "hnumber": 12,
+    "logs": []
+  },
+  {
+    "id": 3,
+    "name": "Flynn Pijning",
+    "cnumber": "369121518",
+    "zipcode": "1781JB",
+    "fnumber": "0612345678",
+    "hnumber": 30,
+    "logs": []
+  }
+]

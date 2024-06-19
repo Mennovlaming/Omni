@@ -1,0 +1,42 @@
+nav {
+    height: 60px;
+    background-color: var(--green);
+    display: flex;
+}
+nav div:first-of-type {
+    background-color: white;
+    width: 275px;
+}
+nav div:first-of-type ul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 60px;
+    padding: 0 1em .5em 1em
+}
+nav div:first-of-type ul li:first-of-type {
+    color: var(--green);
+    font-weight: 600;
+}
+nav div:first-of-type ul li:nth-of-type(2) {
+    color: lightgray;
+    font-size: 20px;
+}
+nav div:nth-of-type(2) ul {
+    display: flex;
+    height: 60px;
+    align-items: flex-end;
+    gap: 4em;
+    padding: 0 1em 0 1em
+}
+nav div:nth-of-type(2) ul li:first-of-type {
+    padding: 0 0 .5em .5em;
+    color: white;
+    border-bottom: 2px solid white;
+    width: 92.5px;
+    font-size: 16px;
+}
+nav div:nth-of-type(2) ul li:nth-of-type(2) img {
+    padding-bottom: .5em;
+    width: 18px;
+}

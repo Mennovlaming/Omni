@@ -1,0 +1,31 @@
+
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+:root {
+  --green: #00C300;
+  --grey: #F3F3F3;
+  --black: #333333;
+  --blue: #0099FF;
+  --darkblue: #0078c8;
+  --border-radius: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+ 
+}
+
+main {
+ 
+
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
